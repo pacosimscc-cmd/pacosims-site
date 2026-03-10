@@ -1,4 +1,3 @@
 ---
-title: Home
-layout: archives
+title: "PacoSims Home"
 ---
